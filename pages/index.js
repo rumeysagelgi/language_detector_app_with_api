@@ -38,7 +38,7 @@ export default function Home({ value: lang }) {
       <div className="flex flex-col items-center w-5/6 h-96 mt-12">
         <textarea
           type="text"
-          className="resize-none outline-none w-3/5 h-4/5 md:w-full md:h-full px-4 py-2 rounded-sm shadow-textarea font-raleway text-base md:text-sm"
+          className="resize-none outline-none appearance-none w-3/5 h-4/5 md:w-full md:h-full px-4 py-2 rounded-sm shadow-textarea font-raleway text-base md:text-sm"
           placeholder="Write or paste a text"
           onChange={(e) => setText(e.target.value)}
           autoFocus={true}
