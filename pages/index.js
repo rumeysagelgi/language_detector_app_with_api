@@ -75,7 +75,7 @@ export default function Home({ value: lang }) {
 }
 
 export async function getServerSideProps() {
-  const res = await axios.get("http://localhost:3000/api/detect");
+  const res = await axios.get("https://language-detector-app-with-api-rumeysa-gelgis-projects.vercel.app/api/detect");
   const { data: value } = res;
 
   if (!value) {
