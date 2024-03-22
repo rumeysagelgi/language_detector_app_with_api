@@ -8,7 +8,60 @@ Language Detector is a versatile solution developed to precisely determine the l
 
 ## Features:
 - Identifies language of any given text
-- Supported languages: Afrikaans 🇿🇦, Arabic 🇸🇦, Bangla 🇧🇩, Bulgarian 🇧🇬, Catalan 🇦🇩, Chinese 🇨🇳, Croatian 🇭🇷, Czech 🇨🇿, Danish 🇩🇰, Dutch 🇳🇱, English 🇬🇧, Estonian 🇪🇪, Finnish 🇫🇮, French 🇫🇷, German 🇩🇪, Greek 🇬🇷, Hebrew 🇮🇱, Hindi 🇮🇳, Hmong Daw 🇱🇦, Hungarian 🇭🇺, Icelandic :flag_iceland:, Indonesian :flag_indonesia:, Italian :flag_italy:, Japanese :flag_japan:, Korean :flag_south_korea:, Latvian :flag_latvia:, Lithuanian :flag_lithuania:, Maltese :flag_malta:, Persian :flag_iran:, Polish :flag_poland:, Portuguese :flag_portugal:, Romanian :flag_romania:, Russian :flag_russia:, Slovak :flag_slovakia:, Slovenian :flag_slovenia:, Spanish :flag_spain:, Swahili :flag_kenya:, Swedish :flag_sweden:, Tamil :flag_sri_lanka:, Thai :flag_thailand:, Turkish :flag_turkey:, Ukrainian :flag_ukrain:, Urdu :flag_pakistan:, Vietnamese :flag_vietnam:, Welsh :flag_wales:
+- Supported languages:
+
+<center>
+  
+Language   | Flag
+---------- | ----------
+Afrikaans  | 🇿🇦
+Arabic     | 🇸🇦
+Bangla     | 🇧🇩
+Bulgarian  | 🇧🇬
+Catalan    | 🇦🇩
+Chinese    | 🇨🇳
+Croatian   | 🇭🇷
+Czech      | 🇨🇿
+Danish     | 🇩🇰
+Dutch      | 🇳🇱
+English    | 🇬🇧
+Estonian   | 🇪🇪
+Finnish    | 🇫🇮
+French     | 🇫🇷
+German     | 🇩🇪
+Greek      | 🇬🇷
+Hebrew     | 🇮🇱
+Hindi      | 🇮🇳
+Hmong Daw  | 🇱🇦
+Hungarian  | 🇭🇺
+Icelandic  | 🇮🇸
+Indonesian | 🇮🇩
+Italian    | 🇮🇹
+Japanese   | 🇯🇵
+Korean     | 🇰🇷
+Latvian    | 🇱🇻
+Lithuanian | 🇱🇹
+Maltese    | 🇲🇹
+Persian    | 🇮🇷
+Polish     | 🇵🇱
+Portuguese | 🇵🇹
+Romanian   | 🇷🇴
+Russian    | 🇷🇺
+Slovak     | 🇸🇰
+Slovenian  | 🇸🇮
+Spanish    | 🇪🇸
+Swahili    | 🇰🇪
+Swedish    | 🇸🇪
+Tamil      | 🇱🇰
+Thai       | 🇹🇭
+Turkish    | 🇹🇷
+Ukrainian  | 🇺🇦
+Urdu       | 🇵🇰
+Vietnamese | 🇻🇳
+Welsh      | 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+
+</center>
+
 - Responsive and mobile-friendly for all devices
 - Single-page application
 - Server-side rendering
